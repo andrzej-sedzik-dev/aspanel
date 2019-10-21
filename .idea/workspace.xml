@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="90d9ae1c-08f1-4a3c-9b5e-510a162432d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,12 +17,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1370" />
-    <option name="height" value="745" />
   </component>
   <component name="ProjectId" id="1RthkXEg8qQh4V9BtadsgGO3gYO" />
   <component name="ProjectViewState">
@@ -84,7 +79,7 @@
       <workItem from="1570905664326" duration="23000" />
       <workItem from="1570923891878" duration="937000" />
       <workItem from="1571166444325" duration="934000" />
-      <workItem from="1571670637008" duration="667000" />
+      <workItem from="1571670637008" duration="1041000" />
     </task>
     <servers />
   </component>
